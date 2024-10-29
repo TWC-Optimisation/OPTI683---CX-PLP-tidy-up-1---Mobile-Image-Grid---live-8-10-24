@@ -9,6 +9,4 @@ i see the product grid
 THEN
 The images within the grid are now slightly larger in size because there is reduced padding around the images, as per specs (see UI)
  
-Consideration – this view remains consistent even when user sorts/re-sorts/filters/views more on the page.
- 
-UI link = https://www.figma.com/design/liGeonKQuR6st8BP3j4PFT/Product-Cards?node-id=1848-11033&t=XMWdtRGhqlRKr5Sw-4
+Consideration – this view remains consistent even when user sorts/re-sorts/filters/views more on the page
