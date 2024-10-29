@@ -1,0 +1,16 @@
+     .product-listing-page__layout-switcher {
+        padding-right: 4px !important;  
+ }
+ 
+ .col.product-listing-page__product-list.col--lg-12 {
+           padding: 12px 0px 12px 0px !important;
+         } 
+  
+    .product-list__grid {
+      column-gap: 8px !important;
+         }
+    
+    .product-card__data {
+        padding-right: 8px !important;  
+        padding-left: 8px !important;  
+ }
